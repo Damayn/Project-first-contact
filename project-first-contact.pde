@@ -1,4 +1,4 @@
 void setup ()
 {
-    size (800, 800);
+    size (700, 800);
 }
